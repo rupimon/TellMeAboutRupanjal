@@ -3,8 +3,8 @@ emoji: 💼
 colorFrom: blue
 colorTo: green
 sdk: gradio
-sdk_version: 4.50.0
 app_file: app.py
+install: requirements.txt
 pinned: false
 license: mit
-python_version: 3.9
+python_version: 3.11
